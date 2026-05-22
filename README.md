@@ -65,4 +65,3 @@ risk_score =
 
 ---
 
-## Author
